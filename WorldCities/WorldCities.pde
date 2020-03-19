@@ -40,4 +40,6 @@ void draw() {
     //point(curLong * 2.5, curLat * 2.5);
     point(curLong * 3, curLat * 3);
   }
+    
+  saveFrame("world.png");
 }
