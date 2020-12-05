@@ -1,7 +1,7 @@
 ![Map of World](WorldCities/world.png)
 
-### Background
-The wordcities.csv dataset contains 11,276 cities around the world. For every city its latitude, longitude, and population is provided.
+### The dataset
+The wordcities.csv dataset contains 11,276 cities around the world. For every city its name, name in ascii, country, latitude, longitude, and population is provided.
 
 ### How it is visualized
 A city is represented by a dot that is draw at its coordinates. Every three pixels is equivalent to one degree.
